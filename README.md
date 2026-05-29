@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Romansh Rathee
 
-<!--
-**shilurathee/shilurathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cybersecurity Specialization) | Manipal Institute of technology,Bengaluru
+🛡️ Aspiring Cybersecurity Analyst
+📍 Bengaluru, India
 
-Here are some ideas to get you started:
+##  Skills
+- **Languages:** Python, C,Java
+- **Security:** Network analysis, OWASP Top 10, 
+  Vulnerability Assessment, Log Analysis
+- **Tools:** Wireshark, Nmap, Burp Suite, Splunk, 
+  Kali Linux, Metasploit
+- **Platforms:** TryHackMe | HackTheBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Repositories
+| Repo | What's Inside |
+|------|--------------|
+| [cybersecurity-portfolio]([link](https://github.com/shilurathee/cybersecurity-portfolio)) | Google Cert activities, reports, docs |
+| [python-security-tools]([link](https://github.com/shilurathee/python-security-tools)) | Security scripts I've built |
+| [ctf-writeups]([link](https://github.com/shilurathee/ctf-writeups)) | TryHackMe & HackTheBox solutions |
+
+##  Progress
+- 🟢 Google Cybersecurity Certificate — In Progress (Course 5/8)
+- 🟢 TryHackMe — Planned
+- 🟡 CompTIA Security+ — Planned
+
+##  Connect
+[LinkedIn](www.linkedin.com/in/romansh-rathee) | [Email](romansh.mitblr2024@learner.manipal.edu)
+        
