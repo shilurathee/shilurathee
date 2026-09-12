@@ -15,14 +15,14 @@
 ##  My Repositories
 | Repo | What's Inside |
 |------|--------------|
-| [cybersecurity-portfolio]([link](https://github.com/shilurathee/cybersecurity-portfolio)) | Google Cert activities, reports, docs |
-| [python-security-tools]([link](https://github.com/shilurathee/python-security-tools)) | Security scripts I've built |
-| [ctf-writeups]([link](https://github.com/shilurathee/ctf-writeups)) | TryHackMe & HackTheBox solutions |
+| [Cybersecurity-portfolio]([link](https://github.com/shilurathee/cybersecurity-portfolio)) | Google Cert activities, reports, docs |
+| [Python-security-tools]([link](https://github.com/shilurathee/python-security-tools)) | Security scripts I've built |
+| [Ctf-writeups]([link](https://github.com/shilurathee/ctf-writeups)) | TryHackMe & HackTheBox solutions |
 
 ##  Progress
 - 🟢 Google Cybersecurity Certificate - In Progress (Course 5/8)
 - 🟢 TryHackMe - Planned
-- 🟢Python for Data Science, AI & Development, IBM
+- 🟢 Python for Data Science, AI & Development, IBM
 - 🟡 CompTIA Security+ - Planned
 
 ##  Connect
