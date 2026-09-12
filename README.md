@@ -20,9 +20,10 @@
 | [ctf-writeups]([link](https://github.com/shilurathee/ctf-writeups)) | TryHackMe & HackTheBox solutions |
 
 ##  Progress
-- 🟢 Google Cybersecurity Certificate — In Progress (Course 5/8)
-- 🟢 TryHackMe — Planned
-- 🟡 CompTIA Security+ — Planned
+- 🟢 Google Cybersecurity Certificate - In Progress (Course 5/8)
+- 🟢 TryHackMe - Planned
+- 🟢Python for Data Science, AI & Development, IBM
+- 🟡 CompTIA Security+ - Planned
 
 ##  Connect
 [LinkedIn](www.linkedin.com/in/romansh-rathee) | [Email](romansh.mitblr2024@learner.manipal.edu)
