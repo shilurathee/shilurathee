@@ -1,6 +1,6 @@
 # Hi, I'm Romansh Rathee
 
-🎓 B.Tech CSE (Cybersecurity Specialization) | Manipal Institute of technology,Bengaluru
+🎓 B.Tech CSE (Cybersecurity Specialization) | Manipal Institute of Technology,Bengaluru
 🛡️ Aspiring Cybersecurity Analyst
 📍 Bengaluru, India
 
@@ -9,7 +9,7 @@
 - **Security:** Network analysis, OWASP Top 10, 
   Vulnerability Assessment, Log Analysis
 - **Tools:** Wireshark, Nmap, Burp Suite, Splunk, 
-  Kali Linux, Metasploit
+  Kali Linux, Metasploit, Suricata
 - **Platforms:** TryHackMe | HackTheBox
 
 ##  My Repositories
@@ -21,6 +21,7 @@
 
 ##  Progress
 - 🟢 Google Cybersecurity Certificate - In Progress (Course 5/8)
+- 🟢 NPTEL Ethical Hacking (ongoing)
 - 🟢 TryHackMe - Planned
 - 🟢 Python for Data Science, AI & Development, IBM
 - 🟡 CompTIA Security+ - Planned
