@@ -21,7 +21,7 @@
 
 ##  Progress
 - 🟢 Google Cybersecurity Certificate - In Progress (Course 5/8)
-- 🟢 NPTEL Ethical Hacking (ongoing)
+- 🟢 NPTEL Ethical Hacking - Elite + Gold (Top 2%) 
 - 🟢 TryHackMe - Planned
 - 🟢 Python for Data Science, AI & Development, IBM
 - 🟡 CompTIA Security+ - Planned
